@@ -1,5 +1,4 @@
 /* For loop */
-
 const handlebars = require('handlebars');
 
 handlebars.registerHelper('for',(from,to,incr,block)=>{

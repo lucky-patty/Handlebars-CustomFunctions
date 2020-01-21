@@ -1,0 +1,15 @@
+<!--
+    This file is the example use of this function
+
+    @Definition
+
+    I won't explain the basic of what 'math' can do but
+    You can use math to change the index of the object since
+    Handlebars iterate start from 0 and if you want to start with 1
+    You can use this function to do so
+
+ -->
+
+ {{#each someList}}
+  <h1>{{math @index "+" 1}}</h1>
+ {{/each}}
