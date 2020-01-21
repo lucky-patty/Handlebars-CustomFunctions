@@ -1,3 +1,19 @@
 # Handlebars-CustomFunctions
 
-Do you feel pain to write register helper function that you need? Here we are posting all neccessary functions that you might need or find it useful 
+A handful of useful function to register in handlebar
+
+## Features
+
+- for loop
+- math function
+
+## Contributing
+
+Feel free to add more features
+
+## Contributors
+
+- Pattarathon Watanakij
+
+
+
